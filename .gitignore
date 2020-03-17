@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Directorios de datos
+data/
+
+# Archivos de datos grandes (personaliza según tus necesidades)
+*.csv
+*.xls
+*.xlsx
+
+# Notebooks generados automáticamente
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos y directorios de salida
+output/
+results/
+
+# Logs
+logs/
